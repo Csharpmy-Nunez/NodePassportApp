@@ -1,0 +1,32 @@
+{
+  "name": "loginapp",
+  "version": "1.0.0",
+  "description": "a simple authentication system application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node build/build.js"
+  },
+  "author": "Franklin Nunez",
+  "license": "MIT",
+  "dependencies": {
+    " ": "*",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "date-and-time": "^0.6.1", 
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "^2.0.30",
+    "mongoose": "*",
+    "object-array-converter": "^1.0.1",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*",
+    "socket.io": "^2.0.4"
+  }
+}
