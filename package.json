@@ -21,7 +21,7 @@
     "express-messages": "*",
     "express-session": "*",
     "express-validator": "*",
-    "mongodb": "^2.0.30",
+    "mongodb": "^3.6.1",
     "mongoose": "*",
     "object-array-converter": "^1.0.1",
     "passport": "*",
